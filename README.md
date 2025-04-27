@@ -25,7 +25,7 @@ or via 🔗[LinkedIn](https://www.linkedin.com/in/chafae-qallouj/).
 
 ## 🌸 Outside of Coding 🌸
 
-I'm passionate about exploring cultures and people through videos and travel. I'm also an avid cyclist and volleyball player, always seeking new challenges. In my downtime, I love playing chess and designing on Canva, while painting allows me to express my creativity.
+I'm passionate about exploring cultures and people through  watching videos . I'm also an avid cyclist and volleyball player, always seeking new challenges. In my downtime, I love playing chess and designing on Canva, while painting allows me to express my creativity.
 
 ---
 
