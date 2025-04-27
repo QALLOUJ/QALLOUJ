@@ -1,7 +1,4 @@
-
-  ![]<img src="https://github.com/QALLOUJ/WEBAPPLICATION/blob/main/Turquoise%20Elegant%20Minimalist%20Feedback%20Docs%20Banner.png" width="400px" alt="QALLOUJ Banner">
-
-
+![](https://github.com/QALLOUJ/WEBAPPLICATION/blob/main/Turquoise%20Elegant%20Minimalist%20Feedback%20Docs%20Banner.png" width="400px" alt="QALLOUJ Banner")
 <h1 align="center">🎀 Welcome to my profile 🎀</h1>
 
 ---
