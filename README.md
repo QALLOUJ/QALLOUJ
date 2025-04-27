@@ -19,7 +19,7 @@ hi, i'm chafae, i'm 21, and i'm studying computer engineering at [Polytech](http
 Feel free to check out my repositories or reach me for collaborations!
 
 💌[chafae.qallouj@etu.univ-lyon1.fr](mailto:chafae.qallouj@etu.univ-lyon1.fr). 
-or via 🔗[LinkedIn]https://www.linkedin.com/in/chafae-qallouj/
+or via 🔗[LinkedIn](https://www.linkedin.com/in/chafae-qallouj/).
 
 
 
