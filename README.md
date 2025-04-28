@@ -6,7 +6,7 @@
 ## 🌸 Stats 🌸
 
 [![Qallouj's GitHub stats](https://github-readme-stats.vercel.app/api?username=QALLOUJ&show_icons=true&theme=tokyonight)](https://github.com/QALLOUJ)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=QALLOUJ&theme=tokyonight&hide_progress=true)
+![Wakatime Stats](https://wakatime.com/@QALLOUJ)
 
 
 ---
