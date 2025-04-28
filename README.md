@@ -7,8 +7,8 @@
 
 [![Qallouj's GitHub stats](https://github-readme-stats.vercel.app/api?username=QALLOUJ&show_icons=true&theme=tokyonight)](https://github.com/QALLOUJ)
 ## 🕒 my coding time
-<a href="https://wakatime.com/@QALLOUJ">
-  <img src="https://wakatime.com/badge/user/6852f82d-2097-4b0c-bca3-e8a0682d90c9.svg" alt="total time coded since 29 jan 2025" />
+<a href="https://wakatime.com/@6852f82d-2097-4b0c-bca3-e8a0682d90c9">
+  <img src="https://wakatime.com/badge/user/6852f82d-2097-4b0c-bca3-e8a0682d90c9.svg" alt="Total time coded" />
 </a>
 
 
